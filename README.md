@@ -53,7 +53,7 @@ c) Chế độ giới hạn lượt đi
 
 
 ## Tác giả
-- 18520109 - Nguyễn Đắc Thiên Ngân
-- 18520480 - Nguyễn Lê Bách
-- 18520627 - Chung Thái Dung
+- 18520109 - Nguyễn Đắc Thiên Ngân - 18520109@gm.uit.edu.vn
+- 18520480 - Nguyễn Lê Bách - 18520480@gm.uit.edu.vn
+- 18520627 - Chung Thái Dung - 18520627@gm.uit.edu.vn
 ## Giấy phép
