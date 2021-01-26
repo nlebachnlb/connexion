@@ -33,6 +33,7 @@ Công cụ quản lý phiên bản: Git
 ## Diagram
 1. UseCase Diagram
 
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/UML/UseCaseDiagram.jpg?raw=true)
 
 2. Class Diagram
 
