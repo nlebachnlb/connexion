@@ -10,6 +10,9 @@ Game Connexion, với thể loại giải đố đơn giản, hỗ trợ cho c�
 
 Nhiệm vụ chính của người chơi là kết nối các điểm có cùng màu sắc trên ma trận các điểm, mỗi điểm có một màu. Kết hợp với một số cơ chế (mechanics) khác giúp game trở nên thú vị hơn. Càng nối nhanh kết hợp việc suy nghĩ cách sử dụng các item, điểm của người chơi thu về càng nhiều.
 
+
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/Screenshots/Screenshot_20210126-195010.png?raw=true)
+
 ## Yêu cầu thiết bị
 Nền tảng hướng đến của nhóm là mobile game hay game di động trên 2 hệ điều hành di động phổ biến nhất hiện nay là Android và iOS. Do đó, một số công cụ cần thiết phải chuẩn bị thêm:
 - Đối với Android: máy tính cần cài đặt Android SDK và NDK (sẽ được cài đặt tự động trong lúc cài module khi sử dụng phiên bản Unity 2019 trở lên).
@@ -28,6 +31,26 @@ Phần mềm phát triển: Visual Studio Code và các extensions cần có:
 Công cụ quản lý phiên bản: Git
 
 ## Diagram
+1. UseCase Diagram
+
+
+2. Class Diagram
+
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/UML/ClassDiagram.jpg?raw=true)
+
+3. Activity Diagram
+a) Vẽ đường nối
+
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/UML/ActivityDiagram1.jpg?raw=true)
+
+b) Chế độ giới hạn thời gian
+
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/UML/ActivityDiagram2.jpg?raw=true)
+
+c) Chế độ giới hạn lượt đi
+
+![alt text](https://github.com/nlebachnlb/connexion/blob/main/UML/ActivityDiagram3.jpg?raw=true)
+
 
 ## Tác giả
 - 18520109 - Nguyễn Đắc Thiên Ngân
